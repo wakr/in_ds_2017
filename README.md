@@ -4,7 +4,9 @@
 
 Download the dataset from [here](https://www.kaggle.com/currie32/crimes-in-chicago/data).
 
-We use data from 2010 --> 2017
+Put it in `/data` folder or run script that merges that data.
+
+NOTE: We use data from 2010 --> 2017
 
 ## Documentation
 
