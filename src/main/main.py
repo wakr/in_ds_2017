@@ -9,17 +9,26 @@ from bokeh.models import (
     ColumnDataSource
 )
 from bokeh.plotting import figure
+from uszipcode import ZipcodeSearchEngine
 from bokeh.palettes import Viridis6
 #%%
 
+search = ZipcodeSearchEngine()
 limit = 100000
-df = pd.read_csv("data/crimes.csv", nrows=limit)
+df = pd.read_csv("../../data/crimes.csv", nrows=limit)
 psource = ColumnDataSource(df)
 
 
 #%%
 
-with open(r'map/zip/zip_codes.geojson', 'r') as f:
+for index, row in df.iterrows():
+    coords = [row['Latitude'], row['Longitude']]
+    if coords[0] != coords[0] or coords[1] != coords[1]:
+        continue
+    res = search.by_coordinate(coords[0], coords[1], radius=30, returns=1)
+    print(res[0]['Zipcode'])
+
+with open(r'../../map/zip/zip_codes.geojson', 'r') as f:
     geo_source = GeoJSONDataSource(geojson=f.read())
 
 hover = HoverTool(tooltips=[
