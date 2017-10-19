@@ -5,13 +5,6 @@ import pandas as pd
 from shapely.geometry import Point
 from shapely.geometry.polygon import Polygon
 
-from bokeh.models import (
-    GeoJSONDataSource,
-    HoverTool,
-    LinearColorMapper,
-    ColumnDataSource
-)
-
 import json
 
 #%%
