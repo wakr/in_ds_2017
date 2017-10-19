@@ -4,24 +4,20 @@ import pandas as pd
 
 #%% 
 
-dfa = pd.read_csv('data/Chicago_Crimes_2008_to_2011.csv',
-                  error_bad_lines=False)
-
-dfb = pd.read_csv('data/Chicago_Crimes_2012_to_2017.csv',
+dfa = pd.read_csv('data/Crimes_-_2001_to_present.csv',
                   error_bad_lines=False)
 
 #%% Take only 2010 onwards
 
-dfa = dfa.query("Year >= 2010")
+dfa = dfa.query("Year >= 2010 and Year < 2017")
 
 #%% Drop Nan rows
 
 dfa = dfa.dropna(axis=0, how='any')
-dfb = dfb.dropna(axis=0, how='any')
 
 #%% Combine
 
-df = pd.concat([dfa, dfb])
+df = pd.concat([dfa])
 
 #%%
 
