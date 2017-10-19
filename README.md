@@ -2,7 +2,7 @@
 
 ## Data
 
-Download the dataset from [here](https://www.kaggle.com/currie32/crimes-in-chicago/data).
+Download the dataset from [here](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2).
 
 Put it in `/data` folder or run script that merges that data.
 
