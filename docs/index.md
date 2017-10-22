@@ -1,6 +1,6 @@
 # Chicago and its crimes
 
-<img src="http://maps-chicago.com/img/0/chicago-neighborhood-map.jpg" width="400" height="400"/></br>
+<img src="http://maps-chicago.com/img/0/chicago-neighborhood-map.jpg" width="400" height="400"/>
 
 Chicago community areas. Source: [http://maps-chicago.com/img/0/chicago-neighborhood-map.jpg](http://maps-chicago.com/img/0/chicago-neighborhood-map.jpg)
 
@@ -12,7 +12,7 @@ Crimes are usually not evenly distributed across a city, and a person who might 
 
 Taking a look at just shootings happened during this year in Chicago shows couple of these clusters 
 
-<img src="chic_shootings.png" width="400" height="400"/></br>
+<img src="chic_shootings.png" width="400" height="400"/>
 Source: (http://crime.chicagotribune.com/chicago/shootings)[http://crime.chicagotribune.com/chicago/shootings]
 
 Tackling with these crime clusters would make the city safer, even though there might be internal problems [in the police department](http://www.reuters.com/article/us-chicago-police/chicagos-detective-force-dwindles-as-murder-rate-soars-idUSKCN10Z13A). The other problem are [guns](http://edition.cnn.com/2017/01/02/us/chicago-murder-rate-2016-visual-guide/index.html) which are hard to get rid of, even with strict gun laws.
