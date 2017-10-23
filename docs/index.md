@@ -23,15 +23,19 @@ However, data about crime types and counts provides valuable information about t
 The data we use are crimes in non-murder crimes from 2010 to 2016 and school inquiries/statistics to form a forecast for 2017. This raises couple of questions that can be answered
 * How crime rate in Chicago is going to change in future?
 * How crimes are distributed inside Chicago?
-* Does there exists a possible relationship to schooling
+* Does there exists a possible relationship to schooling?
 
 
 [1] https://www.usnews.com/news/articles/2016-09-19/chicago-drives-uptick-in-murders-national-crime-rate-stays-near-historic-lows
 
 
+## Data
+
+We use data from 2010 to 2016 offered by [the city of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2). There are over 2 million rows in our filtered data set.
+
 ## Why
 
-We wish to create a 
+We wish to create an easy-to-understand visualization of the current non-murder crime 
 
 ## How
 
@@ -39,5 +43,20 @@ Seeing ZIP-codes. We omit the violent crimes i.e. murders.
 
 ## Results
 
+### How crime rate in Chicago is going to change in future?
+
+<img src="tota_crime_rate.png" width="400" height="400"/>
+
+
+<img src="crime_rate_per_month.png" width="400" height="400"/>
+
+Seasonal changes repeated every year. Overall trend is descending. Interestingly minimum and maximum 
+
+
+
+### How crimes are distributed inside Chicago?
+
+
+### Does there exists a possible relationship to schooling?
 
 ## To remember
