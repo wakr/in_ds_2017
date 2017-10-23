@@ -87,6 +87,10 @@ the whole 2017. The forecast is visible in the next picture:
 
 Droupout rate in whole Chicago is also decreasing.
 
+<img src="safety_score.png"/>
+
+<img src="misconducts.png"/>
+
 ## To remember
 
 Quotation from [news article](http://www.chicagotribune.com/news/local/breaking/ct-chicago-violence-first-three-months-met-20170330-story.html):
