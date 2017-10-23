@@ -62,7 +62,7 @@ Almost all crimes by crime type have decreased: the only exception is narcotics 
 
 ### How crimes are distributed inside Chicago?
 
-<iframe src="plot1.html"></imframe>
+<iframe height="500px" src="plot1.html"></imframe>
 
 ### Does there exists a possible quantitative relationship to schooling?
 
