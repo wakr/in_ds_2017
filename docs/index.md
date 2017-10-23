@@ -65,4 +65,8 @@ Almost all crimes by crime type have decreased: the only exception is narcotics 
 
 ### Does there exists a possible relationship to schooling?
 
+<img src="dropouts_chicago.png"/>
+
+Droupout rate in whole Chicago is also decreasing.
+
 ## To remember
