@@ -45,12 +45,16 @@ Seeing ZIP-codes. We omit the violent crimes i.e. murders.
 
 ### How crime rate in Chicago is going to change in future?
 
-<img src="tota_crime_rate.png" width="400" height="400"/>
+<img src="tota_crime_rate.png"/>
 
 
-<img src="crime_rate_per_month.png" width="400" height="400"/>
+<img src="crime_rate_per_month.png"/>
 
-Seasonal changes repeated every year. Overall trend is descending. Interestingly minimum and maximum 
+Seasonal changes repeated every year. Overall trend is descending. Interestingly minimum and maximum
+months per year are the same for 2010 and 2016 and for almost all years. 
+For example in 2010 lowest crime rate was in february and highest in august and in 2016 lowest was also in february and highest in august.
+
+
 
 
 
