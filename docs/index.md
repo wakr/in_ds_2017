@@ -54,9 +54,9 @@ Seasonal changes repeated every year. Overall trend is descending. Interestingly
 months per year are the same for 2010 and 2016 and for almost all years. 
 For example in 2010 lowest crime rate was in february and highest in august and in 2016 lowest was also in february and highest in august.
 
+<img src="crimes_per_crime_type.png"/>
 
-
-
+Almost all crimes by crime type have decreased: the only exception is narcotics (blue curve). 
 
 ### How crimes are distributed inside Chicago?
 
