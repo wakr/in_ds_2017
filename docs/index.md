@@ -60,6 +60,23 @@ For example in 2010 lowest crime rate was in february and highest in august and 
 
 Almost all crimes by crime type have decreased: the only exception is narcotics (blue curve).
 
+---
+
+We built a SARIMAX-model (Seasonal Autoregressive integrated moving average)
+to forecast for the 2017. The result predictions for 2016 is visible here:
+
+<img src="2016_predicted_crime_rate.png"/>
+
+and overview of predicted values from 2014-2016:
+
+<img src="2014_2016_predictions.png"/>
+
+So in a general case, our model seems to work quite well and we can use this to predict 
+the whole 2017. The forecast is visible in the next picture:
+
+<img src="2017_forecasted.png"/> 
+
+
 ### How crimes are distributed inside Chicago?
 
 <iframe height="500px" src="plot1.html"></imframe>
