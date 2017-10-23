@@ -79,7 +79,7 @@ the whole 2017. The forecast is visible in the next picture:
 
 ### How crimes are distributed inside Chicago?
 
-<iframe height="500px" src="plot1.html"></imframe>
+<img src="crimes_per_zip.png"/>
 
 ### Does there exists a possible quantitative relationship to schooling?
 
