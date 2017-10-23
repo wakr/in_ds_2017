@@ -36,7 +36,8 @@ Every row contains at least crime type, date, latitude and longitude.
 
 ## Why
 
-We wish to create an easy-to-understand visualization of the current non-murder crime 
+We wish to create an easy-to-understand visualization of the current non-murder crimes and also explore possible quantitative relations
+between crimes and school dropouts.
 
 ## How
 
