@@ -70,3 +70,6 @@ Almost all crimes by crime type have decreased: the only exception is narcotics 
 Droupout rate in whole Chicago is also decreasing.
 
 ## To remember
+
+Quotation from [news article](http://www.chicagotribune.com/news/local/breaking/ct-chicago-violence-first-three-months-met-20170330-story.html):
+"Criminologists, however, caution against making comparisons in crime statistics month to month or even year to year, arguing that long-term trends give a truer picture of how violence changes over time."
