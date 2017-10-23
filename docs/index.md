@@ -32,6 +32,7 @@ The data we use are crimes in non-murder crimes from 2010 to 2016 and school inq
 ## Data
 
 We use data from 2010 to 2016 offered by [the city of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2). There are over 2 million rows in our filtered data set.
+Every row contains at least crime type, date, latitude and longitude.
 
 ## Why
 
@@ -56,7 +57,7 @@ For example in 2010 lowest crime rate was in february and highest in august and 
 
 <img src="crimes_per_crime_type.png"/>
 
-Almost all crimes by crime type have decreased: the only exception is narcotics (blue curve). 
+Almost all crimes by crime type have decreased: the only exception is narcotics (blue curve).
 
 ### How crimes are distributed inside Chicago?
 
