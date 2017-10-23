@@ -89,7 +89,12 @@ Droupout rate in whole Chicago is also decreasing.
 
 <img src="safety_score.png"/>
 
+Safety score is one measure in [5 Essentials survey](https://illinois.5-essentials.org/2017/). It measures student's perception of safety at school.
+
+
 <img src="misconducts.png"/>
+
+Misconduct rate is also from 5 Essentials survey. It's still unclear for us, if misconduct rate means percent of misconducting students or something else.
 
 ## To remember
 
