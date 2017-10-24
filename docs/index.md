@@ -47,18 +47,30 @@ Seeing ZIP-codes. We omit the violent crimes i.e. murders.
 
 ### How crime rate in Chicago is going to change in future?
 
+Next plot gives an overview of current crime rates in Chicago, with the year 2017 omitted. 
+
 <img src="tota_crime_rate.png"/>
 
+The overall trend is descending, which is a good thing. However descending trend might be due many different factors as for example how the reporting of crime has changed during the years. It's also notable that in this data, no murders are not being counted in. This is because murders are so cevere crimes so they cannot be included grouped with milder crimes like _thievery_ or _assault_. Later, we will see that the there exists quite direct relationship between crimes and school safety. This is of course due to enviromental factors of ZIP-districts.
+
+However, to see more detailed information about the state of crime in Chicago, we can plot the data per month as seen in the next plot. 
 
 <img src="crime_rate_per_month.png"/>
 
-Seasonal changes repeated every year. Overall trend is descending. Interestingly minimum and maximum
-months per year are the same for 2010 and 2016 and for almost all years. 
-For example in 2010 lowest crime rate was in february and highest in august and in 2016 lowest was also in february and highest in august.
+The Seasonal changes are quite obvious and they are repeated every year. Overall trend is descending, hinting that crime rate is dropping year by year. Interestingly minimum and maximum months per year are the same for pretty much every year.  For example in 2010 lowest crime rate was in February and highest in August and in 2016 lowest was also in February and highest in August.
+
+These two months are interestingly also among the coldest and warmest months in Chicago as seen here
+
+![avg_temps](https://weather-and-climate.com/uploads/average-temperature-united-states-of-america-chicago.png)
+Source: [https://weather-and-climate.com/uploads/average-temperature-united-states-of-america-chicago.png](https://weather-and-climate.com/uploads/average-temperature-united-states-of-america-chicago.png)
+
+
+
+Individual crime types are visible in quite similar fashion as in overall trend of crimes. This is visible in the following plot, where all crime types are plotted (names excluded for clarity) 
 
 <img src="crimes_per_crime_type.png"/>
 
-Almost all crimes by crime type have decreased: the only exception is narcotics (blue curve).
+Almost all crimes by crime type have decreased, the only exception being narcotics (blue curve).
 
 ---
 
@@ -74,7 +86,9 @@ and overview of predicted values from 2014-2016:
 So in a general case, our model seems to work quite well and we can use this to predict 
 the whole 2017. The forecast is visible in the next picture:
 
-<img src="2017_forecasted.png"/> 
+<img src="2017_forecasted.png"/>
+
+<img src="2017_forecast_total_crime.png"/> 
 
 
 ### How crimes are distributed inside Chicago?
@@ -85,7 +99,7 @@ the whole 2017. The forecast is visible in the next picture:
 
 <img src="dropouts_chicago.png"/>
 
-Droupout rate in whole Chicago is also decreasing.
+Droupout rate in whole Chicago is also [decreasing.](http://www.chicagotribune.com/news/ct-chicago-school-graduation-rate-increase-met-20170903-story.html)
 
 <img src="safety_score.png"/>
 
