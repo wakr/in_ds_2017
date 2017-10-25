@@ -74,7 +74,7 @@ Almost all crimes by crime type have decreased, the only exception being narcoti
 
 ---
 
-We built a SARIMAX-model (Seasonal Autoregressive integrated moving average)
+For forecasting the crime amount, we built a SARIMAX-model (Seasonal Autoregressive integrated moving average)
 to forecast for the 2017. The result predictions for 2016 is visible here:
 
 <img src="2016_predicted_crime_rate.png"/>
@@ -94,6 +94,14 @@ the whole 2017. The forecast is visible in the next picture:
 ### How crimes are distributed inside Chicago?
 
 <img src="crimes_per_zip.png"/>
+
+See interactive plot [here](plot.html)
+
+![](minmedmax_zip.png)
+
+![](crime_type_dist.png)
+
+![](crime_type_zip.png)
 
 ### Does there exists a possible quantitative relationship to schooling?
 
