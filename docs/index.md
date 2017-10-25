@@ -136,8 +136,9 @@ can decide which school to choose for their children
 - Just looking the numbers, we can also make a model which predicts count of crimes based on percent of african americans in area
 
 <img src="african_american.png"/>
+</br> 
 Image from wikipedia
 
 Instead of now helping isolation of owners & the poor, we want to tell you something qualitative about reasons of these data analysis results.
 When we explored the internet within this topics, we found that Chicagos regional inequality is a very complex topic which
-includes for example police violence, poverty & drugs. 
+includes for example police violence, poverty & drugs.
