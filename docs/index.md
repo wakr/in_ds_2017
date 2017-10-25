@@ -150,7 +150,7 @@ So we think that value of for example predicting apartment prices is not true va
 Image below describes distribution of police-involved shootings and it's from [Chicagotribune](http://www.chicagotribune.com/news/ct-map-where-chicago-police-shot-at-people-20160826-htmlstory.html)
 <img src="policeshootings.png"/>
 
-Image below describes use of force by police, and it's from [Citizens Police Data Project](https://cpdb.co/data/LjgX1o/citizens-police-data-project)
+Image below describes use of force misconducts by police, and it's from [Citizens Police Data Project](https://cpdb.co/data/LjgX1o/citizens-police-data-project)
 <img src="police_force.png"/>
 
 <img src="race_gap.png"/>
