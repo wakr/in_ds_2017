@@ -122,3 +122,8 @@ When comparing crime data and school data (dropout rates, safety scores, miscond
 
 Quotation from [news article](http://www.chicagotribune.com/news/local/breaking/ct-chicago-violence-first-three-months-met-20170330-story.html):
 "Criminologists, however, caution against making comparisons in crime statistics month to month or even year to year, arguing that long-term trends give a truer picture of how violence changes over time."
+
+
+## Story about quick qualitative analysis after data analysis
+
+
