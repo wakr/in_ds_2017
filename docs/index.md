@@ -112,7 +112,7 @@ Lower safety score means lower perception of safety. As we can see comparing thi
 Misconduct rate is also from 5 Essentials survey. It's still unclear for us, if misconduct rate means percent of misconducting students or something else.
 Both safety score and misconducts plots resemble crime plot.
 
-## Conclusions
+## Conclusions about comparing crimes & school data
 
 
 
