@@ -140,4 +140,6 @@ Image below is from Wikipedia
 
 Instead of now helping isolation of owners & the poor, we want to tell you something qualitative about reasons of these data analysis results.
 When we explored the internet within this topics, we found that Chicagos regional inequality is a very complex topic which
-includes for example police violence, poverty & drugs. It's not fair to
+includes for example police violence, poverty & drugs.
+
+So we think that value of for example predicting apartment prices is not true value for society, it's just value for owners.
