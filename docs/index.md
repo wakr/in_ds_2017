@@ -124,6 +124,15 @@ Quotation from [news article](http://www.chicagotribune.com/news/local/breaking/
 "Criminologists, however, caution against making comparisons in crime statistics month to month or even year to year, arguing that long-term trends give a truer picture of how violence changes over time."
 
 
-## Story about quick qualitative analysis after data analysis
+## Story about ethics: What should we do with our results, what's value of this analysis
 
+Our main conclusions in data analysis were that crime counts per zip code vary a lot, and also school safety & misconducts are in
+quantitative relationship with crimes. Chicago has two larger areas of big crime count and low school safety. What should we do
+now with our results? We can for example:
+
+- Make a machine learning model which predicts apartment prices based on crime counts
+- Make other machine learning models which benefits different kinds of owners: apartment owners, car owners, entrepreneurs, parents who
+can decide what school to choose for their children
+
+Instead of now helping isolation of owners & the poor, we want to tell you something qualitative about reasons of these data analysis results.
 
