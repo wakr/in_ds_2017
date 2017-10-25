@@ -112,9 +112,11 @@ Lower safety score means lower perception of safety. As we can see comparing thi
 Misconduct rate is also from 5 Essentials survey. It's still unclear for us, if misconduct rate means percent of misconducting students or something else.
 Both safety score and misconducts plots resemble crime plot.
 
-## Conclusions about comparing crimes & school data
+### Conclusions about comparing crimes & school data
 
-
+When comparing crime data and school data (dropout rates, safety scores, misconducts) statistically, it's very unlikely that differences
+ in zip codes have came to exist coincidentally. We still cannot say that crimes are affecting to school life or the other way round.
+ When doing more conclusions than just "we found that these distributions resemble each others", we need more knowledge in research methods of criminology or social sciences.
 
 ## To remember
 
