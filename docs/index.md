@@ -132,7 +132,7 @@ now with our results? We can for example:
 
 - Make a machine learning model which predicts apartment prices based on crime counts
 - Make other machine learning models which benefits different kinds of owners: apartment owners, car owners, entrepreneurs, parents who
-can decide what school to choose for their children
+can decide which school to choose for their children
 
 Instead of now helping isolation of owners & the poor, we want to tell you something qualitative about reasons of these data analysis results.
 
