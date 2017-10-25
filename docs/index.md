@@ -143,3 +143,6 @@ When we explored the internet within this topics, we found that Chicagos regiona
 includes for example police violence, poverty & drugs.
 
 So we think that value of for example predicting apartment prices is not true value for society, it's just value for owners.
+
+More information of Chicago regional inequality:
+- [Brookings article](https://www.brookings.edu/blog/social-mobility-memos/2015/12/21/the-most-american-city-chicago-race-and-inequality/)
