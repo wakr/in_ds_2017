@@ -144,6 +144,9 @@ includes for example police violence, poverty & drugs.
 
 So we think that value of for example predicting apartment prices is not true value for society, it's just value for owners.
 
+Image below describes distribution of police shootings and it's from [Chicagotribune](http://www.chicagotribune.com/news/ct-map-where-chicago-police-shot-at-people-20160826-htmlstory.html)
+<img src="policeshootings.png"/>
+
 <img src="race_gap.png"/>
 
 More information of Chicago regional inequality:
