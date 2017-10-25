@@ -124,7 +124,8 @@ Quotation from [news article](http://www.chicagotribune.com/news/local/breaking/
 "Criminologists, however, caution against making comparisons in crime statistics month to month or even year to year, arguing that long-term trends give a truer picture of how violence changes over time."
 
 
-## Story about ethics & value: What should we do with our results & is value for apartment owners true value
+## Story about ethics & value
+### What should we do with our results & is value for apartment owners true value
 
 Our main conclusions in data analysis were that crime counts per zip code vary a lot, and also school safety & misconducts are in
 quantitative relationship with crimes. Chicago has two larger areas of big crime count and low school safety. What should we do
