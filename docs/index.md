@@ -152,5 +152,5 @@ Image below describes distribution of police shootings and it's from [Chicagotri
 
 <img src="race_gap.png"/>
 
-More information of Chicago regional inequality:
+### More information of Chicago regional inequality:
 - [Brookings article](https://www.brookings.edu/blog/social-mobility-memos/2015/12/21/the-most-american-city-chicago-race-and-inequality/)
