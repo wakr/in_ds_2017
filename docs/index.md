@@ -151,7 +151,7 @@ Image below describes distribution of police-involved shootings and it's from [C
 <img src="policeshootings.png"/>
 
 Image below describes use of force by police, and it's from [Citizens Police Data Project](https://cpdb.co/data/LjgX1o/citizens-police-data-project)
-<img src="policeforce.png"/>
+<img src="police_force.png"/>
 
 <img src="race_gap.png"/>
 
