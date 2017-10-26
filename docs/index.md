@@ -147,9 +147,8 @@ can decide which school to choose for their children
 Image below is from Wikipedia
 <img src="african_american.png"/>
 
-Instead of now helping isolation of owners and the poor, we want to tell you something qualitative about the reasons of these data analysis results.
-When we explored the internet concerning this topic, we found that Chicago's regional inequality is a very complex topic which
-includes for example police violence, poverty and drugs.
+![](http://i.imgur.com/xZoKnTa.gif)
+Source: [https://www.huffingtonpost.com/2013/01/29/chicago-racial-demographi_n_2575921.html](https://www.huffingtonpost.com/2013/01/29/chicago-racial-demographi_n_2575921.html)
 
 So we think that the value of, for example, predicting apartment prices is not of true value for the society at large; it's just extra value for the owners.
 
@@ -163,5 +162,8 @@ Image below describes use of force misconducts by police, and it's from [Citizen
 
 <img src="race_gap.png"/>
 
+
 ### More information of Chicago regional inequality:
 - [Brookings article](https://www.brookings.edu/blog/social-mobility-memos/2015/12/21/the-most-american-city-chicago-race-and-inequality/)
+- [Employment status in Chicago](https://statisticalatlas.com/place/Illinois/Chicago/Employment-Status)
+- [Food Stamp distribution in Chicago](https://statisticalatlas.com/place/Illinois/Chicago/Food-Stamps)
