@@ -97,8 +97,6 @@ the whole of 2017. The forecast is visible in the next picture:
 
 See interactive plot [here](plot.html)
 
-![](minmedmax_zip.png)
-
 ![](crime_type_dist.png)
 
 ![](crime_type_zip.png)
