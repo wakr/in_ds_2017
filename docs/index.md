@@ -153,7 +153,7 @@ includes for example police violence, poverty and drugs.
 
 So we think that the value of, for example, predicting apartment prices is not of true value for the society at large; it's just extra value for the owners.
 
-### Regional police-involved shootings & race gap in income
+### Regional police-involved shootings and race gap in income
 
 Image below describes distribution of police-involved shootings and it's from [Chicagotribune](http://www.chicagotribune.com/news/ct-map-where-chicago-police-shot-at-people-20160826-htmlstory.html)
 <img src="policeshootings.png"/>
