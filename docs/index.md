@@ -136,7 +136,7 @@ now with our results? We can for example:
 can decide which school to choose for their children
 - Just looking the numbers, we can also make a model which predicts count of crimes based on percent of african americans in area
 
-Image below is from Wikipedia
+Image below is from [Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_Chicago)
 <img src="african_american.png"/>
 
 Instead of now helping isolation of owners & the poor, we want to tell you something qualitative about reasons of these data analysis results.
