@@ -122,6 +122,10 @@ What was surprising, however, was that the area around Garfield Park, Humboldt P
 
 ### Does there exists a possible quantitative relationship to schooling?
 
+In addition to analyze just crime data, we wanted to see if crimes have correlations for example with school or health data.
+We found following dropout data from [Chicago Public Schools -page](http://cps.edu/SchoolData/Pages/SchoolData.aspx), and we explain below image
+what dropout rate means. 
+
 <img src="dropouts_chicago.png"/>
 
 The dropout rate in Chicago is also [decreasing.](http://www.chicagotribune.com/news/ct-chicago-school-graduation-rate-increase-met-20170903-story.html)
