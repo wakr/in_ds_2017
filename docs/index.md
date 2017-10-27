@@ -160,6 +160,7 @@ Image below is from [Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_Ch
 <img src="african_american.png"/>
 
 ![](http://i.imgur.com/xZoKnTa.gif)
+
 Source: [https://www.huffingtonpost.com/2013/01/29/chicago-racial-demographi_n_2575921.html](https://www.huffingtonpost.com/2013/01/29/chicago-racial-demographi_n_2575921.html)
 
 So we think that the value of, for example, predicting apartment prices is not of true value for the society at large; it's just extra value for the owners.
@@ -168,7 +169,7 @@ So we think that the value of, for example, predicting apartment prices is not o
 
 When we studied Chicago's regional polarization more, we found interesting plots about police misconducts and the race gap in income. We learned that if you want to get good picture of what's happening in a geographical area, it's good to take a look at data from as many fields of society as possible. 
 
-Image below describes distribution of police-involved shootings and it's from [Chicagotribune](http://www.chicagotribune.com/news/ct-map-where-chicago-police-shot-at-people-20160826-htmlstory.html)
+Image below describes distribution of police-involved shootings and it's from [Chicagotribune](http://www.chicagotribune.com/news/ct-map-where-chicago-police-shot-at-people-20160826-htmlstory.html):
 
 <img src="policeshootings.png"/>
 
