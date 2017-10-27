@@ -6,24 +6,27 @@ Chicago community areas. Source: [http://maps-chicago.com/img/0/chicago-neighbor
 
 ## Background
 
-Chicago is notorious for its violent crime rate, topping many major US city in violent crimes [1]. 
+Chicago is notorious for its violent crime rate, topping many major US city in violent crimes [1]. We wan't to easily visualize the current situation in Chicago and provide an info-packet about crimes in Chicago. This can be useful information for many different groups; people who are thinking to move inside Chicago into a safe area, police who gets dispatch to specific area can prepare for a specific crime or just for the people who are interest what are possible causes of Chicago's high crime rate. 
 
-Crimes are usually not evenly distributed across a city, and a person who might be interested in moving to Chicago would probably want to see which areas are the worst inside Chicago. Based on that data, a new would-be resident could compare between areas inside Chicago and choose a more crime-free district to live. The data about these bad areas also gives insight into the police department and helps in pinpointing crime clusters, which are often formed due to sociological differences i.e. poverty and education. 
+Crimes overall, are usually not evenly distributed across one city. A person who might be interested in moving into a new city, would possibly want to review different areas and choose the most suitable for him/her. The data about these high-crime areas also gives insight into the police department and helps in pinpointing crime clusters, which are often formed due to sociological differences i.e. poverty, lack of education and low income. 
 
-Taking a look at just the shootings that happened during this year in Chicago shows couple of these clusters 
+Taking a look at just the shootings that happened during this year in Chicago shows couple of these clusters. Mainly residing in top left and in lower part of Chicago
 
 <img src="chic_shootings.png" width="400" height="400"/>
 
 Source: [http://crime.chicagotribune.com/chicago/shootings](http://crime.chicagotribune.com/chicago/shootings)
 
-Tackling these crime clusters would make the city safer, even though there might be internal problems [in the police department](http://www.reuters.com/article/us-chicago-police/chicagos-detective-force-dwindles-as-murder-rate-soars-idUSKCN10Z13A). Another problem are [guns](http://edition.cnn.com/2017/01/02/us/chicago-murder-rate-2016-visual-guide/index.html) which are hard to get rid of or to even regulate, even with strict gun laws.
+Tackling with these clusters is one way to make city safer. But unfortunately in Chicago, there exists also internal problems [in the police department](http://www.reuters.com/article/us-chicago-police/chicagos-detective-force-dwindles-as-murder-rate-soars-idUSKCN10Z13A). Another problem are [guns](http://edition.cnn.com/2017/01/02/us/chicago-murder-rate-2016-visual-guide/index.html) which are hard to get rid of or to even regulate, even with strict gun laws.
 
 However, data about crime types and counts provides valuable information about the current state of crimes in Chicago. We believe that smaller crimes create a *butterfly effect* which will ultimately reflect to more serious crimes over time.
 
-The data we use are non-homicide crimes from 2010 to 2016 and school inquiries/statistics to form a forecast for 2017. This raises couple of questions that could be answered
+The data we use in this visualization are non-homicide crimes from 2010 to 2016 to form a forecast for 2017. We also take little look at education data, which is in form of surveys made for the students or data about dropout rates. 
+
+We raise couple of questions and try to answer then with the crime data
 * How the crime rate in Chicago will change in the future?
 * How the crimes are distributed inside Chicago?
 * Does there exists a possible relationship to education?
+* What are possible causes for Chicagos crime rates?
 
 
 [1] https://www.usnews.com/news/articles/2016-09-19/chicago-drives-uptick-in-murders-national-crime-rate-stays-near-historic-lows
@@ -31,17 +34,14 @@ The data we use are non-homicide crimes from 2010 to 2016 and school inquiries/s
 
 ## Data
 
-We use data from 2010 to 2016 offered by [the city of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2). There are over 2 million rows in our filtered data set.
-Every row contains at least the crime type, date, latitude and longitude.
+We use crime data from 2010 to 2016 offered by [the city of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2). The reason for this is just that we want to see the situation in 2010s. 
 
-## Why
+There are over 2 million rows in our filtered data set. Every row contains at the crime type, date, latitude and longitude with other fields including e.g. description, police patrol areas and the location of the crime. 
 
-We wish to create an easy-to-understand visualization of the current non-homicide crimes and also explore possible quantitative relations
-between crimes and school dropouts.
+As briefly mentioned before, our data don't consist any murders. This is because we don't want to mix up for example crimes involving theft with murder crimes, because their impact to society is very different.
 
-## How
+We also determined the ZIP district of crimes from the coordinates given, as this data wasn't in the original dataset.
 
-Seeing ZIP-codes. We omit the violent crimes i.e. homicides. 
 
 ## Results
 
@@ -51,7 +51,7 @@ Next plot gives an overview of current crime rates in Chicago, with the year 201
 
 <img src="tota_crime_rate.png"/>
 
-The overall trend in criminal activity is descending, which is a good thing. However, this descending trend might be due many different factors as for example how the reporting of crime has changed during the years. It's also notable that in this data, no homicides are taken into account. This is because homicides are so severe crimes so they cannot be included grouped with milder crimes like _thievery_ or _assault_. Later, we will see that the there exists a correlative relationship between crimes and school safety. This is of course due to the environmental factors of different ZIP-districts.
+The overall trend in criminal activity is descending, which is a good thing. However, this descending trend might be due many different factors as for example how the reporting of crime has changed during the years. It's anyhow interesting, as gun crimes and violence were increasing in Chicago but the overall amount isn't. 
 
 However, to see more detailed information about the state of crime in Chicago, we can plot the data per month as seen in the next plot. 
 
@@ -59,23 +59,23 @@ However, to see more detailed information about the state of crime in Chicago, w
 
 The Seasonal changes are quite obvious and they are repeated every year. Overall trend is descending, hinting that crime rate is dropping year by year. Interestingly, the minimum and maximum months per year are the same for pretty much every year.  For example in 2010 lowest crime rate was in February and highest in August and in 2016 lowest was also in February and highest in August.
 
-These two months are interestingly also among the coldest and warmest months in Chicago as seen here
+These two months are among the coldest and warmest months in Chicago as seen here
 
 ![avg_temps](https://weather-and-climate.com/uploads/average-temperature-united-states-of-america-chicago.png)
 Source: [https://weather-and-climate.com/uploads/average-temperature-united-states-of-america-chicago.png](https://weather-and-climate.com/uploads/average-temperature-united-states-of-america-chicago.png)
 
 
 
-Individual crime types are visible in quite a similar fashion as in overall trend of crimes. This is visible in the following plot, where all crime types are plotted (names excluded for clarity) 
+Individual crime types are visible in quite a similar fashion as in overall trend of crimes. This is visible in the following plot, where all crime types are plotted (names excluded for clarity).
 
 <img src="crimes_per_crime_type.png"/>
 
-Almost all crimes by crime type have decreased, the only exception being narcotics (blue curve).
+Almost all crimes by crime types have decreased, the only exception being narcotics (blue curve), but no major outliers or types that don't follow the overall trend. It's thus safe to say that all non-violent crimes in Chicago are in descending trend.
 
 ---
 
-For forecasting the crime amount, we built a SARIMAX-model (Seasonal Autoregressive integrated moving average)
-to forecast for the 2017. The resulting predictions for 2016 are visible here:
+For forecasting the overall crime amount, we built a SARIMAX-model (Seasonal Autoregressive integrated moving average)
+to forecast for the 2017. The model automatically adjusts to seasonal changes with a given trend. The resulting predictions for 2016 are visible here:
 
 <img src="2016_predicted_crime_rate.png"/>
 
@@ -87,6 +87,11 @@ So in a general case, our model seems to work well and we can use this to predic
 the whole of 2017. The forecast is visible in the next picture:
 
 <img src="2017_forecasted.png"/>
+
+Unsurprisingly, the year 2017 is forecasted to be very similar to 2016. This is mostly as the descending of the overall trend has relaxed from what it was between 2012-2014, so the trend has a little bit stabilized between 2014-2017. 
+
+In the next plot, is visible the crime rate with the forecasted total amount in 2017. 
+
 
 <img src="2017_forecast_total_crime.png"/> 
 
