@@ -104,7 +104,7 @@ From our data, we created the following plot using Bokeh, which represents the o
 
 As can be seen from the plot, the criminal activity in Chicago is heavily divided into two main areas: Garfield Park, Humboldt Park and Austin in the west, and Englewood, Auburn and Pullman in the south.
 
-See interactive plot [here](plot.html)
+See interactive plot [here](plot.html), which also contains the specific locations for each crimes inside the ZIP-codes.
 
 In the next plot, we have summed up the top 10 types of crimes (not including homicides) committed in Chicago during our sample of the years 2010 - 2016:
 
