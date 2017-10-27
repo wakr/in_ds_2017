@@ -93,15 +93,27 @@ the whole of 2017. The forecast is visible in the next picture:
 
 ### How crimes are distributed inside Chicago?
 
+From our data, we created the following plot using Bokeh, which represents the overall percentages of crimes committed in Chicago divided into specific ZIP/Postal-codes:
+
 <img src="crimes_per_zip.png"/>
+
+As can be seen from the plot, the criminal activity in Chicago is heavily divided into two main areas: Garfield Park, Humboldt Park and Austin in the west, and Englewood, Auburn and Pullman in the south.
 
 See interactive plot [here](plot.html)
 
-![](minmedmax_zip.png)
+In the next plot, we have summed up the top 10 types of crimes (not including homicides) committed in Chicago during our sample of the years 2010 - 2016:
 
 ![](crime_type_dist.png)
 
+From the plot, we can easily see that Thefts and Batteries are the leading types of crimes in Chicago, followed by Criminal Damage (To Property) and Narcotics -offenses, with other crimes trailing behind these.
+
+Using this information about the types of crimes committed in Chicago, alongside the ZIP-code data we have, we could pinpoint the most common crimes inside each ZIP-code using aggregated data, as shown in the next plot:
+
 ![](crime_type_zip.png)
+
+Not surprisingly, we can see the crime-rate divide mirrored in this plot, with the less-serious Theft-type crimes being prevalent in areas of low crime-rates, and Batteries and Narcotics being the top crimes in high crime-rate areas.
+
+What was surprising, however, was that the area around Garfield Park, Humboldt Park and Austin had Narcotics as the top aggregated crime instead of Battery. Considering that Narcotics were only the 4th most prevalent type of crime we found in Chicago during our sample, this is an interesting find, and could be looked at in more detail in future tasks.
 
 ### Does there exists a possible quantitative relationship to schooling?
 
