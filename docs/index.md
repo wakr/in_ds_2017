@@ -179,7 +179,7 @@ Image below describes use of force misconducts by police, and it's from [Citizen
 
 Quotation from [news article](http://www.chicagotribune.com/news/local/breaking/ct-chicago-violence-first-three-months-met-20170330-story.html):
 
-<q>"Criminologists, however, caution against making comparisons in crime statistics month to month or even year to year, arguing that long-term trends give a truer picture of how violence changes over time."</q>
+<blockquote>"Criminologists, however, caution against making comparisons in crime statistics month to month or even year to year, arguing that long-term trends give a truer picture of how violence changes over time."</blockquote>
 Our data is from years 2010-2016, but our data source [Kaggle](https://www.kaggle.com/currie32/crimes-in-chicago/data) has same data already from 2001. We decided to
 concentrate in years 2010-2016 because of long data preprocessing time, but our future research topic would be to analyze data from longer time period.
 
