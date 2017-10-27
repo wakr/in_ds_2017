@@ -124,7 +124,7 @@ What was surprising, however, was that the area around Garfield Park, Humboldt P
 
 In addition to analyze just crime data, we wanted to see if crimes have correlations for example with school or health data.
 We found following dropout data from [Chicago Public Schools -page](http://cps.edu/SchoolData/Pages/SchoolData.aspx), and we explain below image
-what dropout rate means. 
+what dropout rate means.
 
 <img src="dropouts_chicago.png"/>
 
@@ -184,7 +184,7 @@ Image below describes use of force misconducts by police, and it's from [Citizen
 Quotation from [news article](http://www.chicagotribune.com/news/local/breaking/ct-chicago-violence-first-three-months-met-20170330-story.html):
 
 <blockquote>"Criminologists, however, caution against making comparisons in crime statistics month to month or even year to year, arguing that long-term trends give a truer picture of how violence changes over time."</blockquote>
-Our data is from years 2010-2016, but our data source [Kaggle](https://www.kaggle.com/currie32/crimes-in-chicago/data) has same data already from 2001. We decided to
+Our data is from years 2010-2016, but our data source [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2) has same data already from 2001. We decided to
 concentrate in years 2010-2016 because of long data preprocessing time, but our future research topic would be to analyze data from longer time period.
 
 ### More information of Chicago regional inequality:
