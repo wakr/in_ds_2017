@@ -108,6 +108,8 @@ See interactive plot [here](plot.html)
 <img src="dropouts_chicago.png"/>
 
 The dropout rate in Chicago is also [decreasing.](http://www.chicagotribune.com/news/ct-chicago-school-graduation-rate-increase-met-20170903-story.html)
+Dropout rate is calculated by for 5-year high schools with following way: For 2016, researchers compared count of students who started in 2011
+and count of students who graduated in 2016 and then calculated the dropout rate. 
 
 <img src="safety_score.png"/>
 
