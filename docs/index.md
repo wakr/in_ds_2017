@@ -171,6 +171,10 @@ So we think that the value of, for example, predicting apartment prices is not o
 
 ### Regional police-involved shootings and race gap in income
 
+When we studied Chicagos regional polarization more, we found interesting plots about police misconducts and race gap. We learned
+that if you want to get good picture of what's happening in geographical area, it's good to take a look to data from as many fields of society
+as possible. 
+
 Image below describes distribution of police-involved shootings and it's from [Chicagotribune](http://www.chicagotribune.com/news/ct-map-where-chicago-police-shot-at-people-20160826-htmlstory.html)
 <img src="policeshootings.png"/>
 
