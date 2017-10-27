@@ -101,7 +101,7 @@ As can be seen from the plot, the criminal activity in Chicago is heavily divide
 
 See interactive plot [here](plot.html)
 
-In the next plot, we have averaged out the top 10 types of crimes (not including homicides) committed in Chicago during our sample of the years 2010 - 2016:
+In the next plot, we have summed up the top 10 types of crimes (not including homicides) committed in Chicago during our sample of the years 2010 - 2016:
 
 ![](crime_type_dist.png)
 
