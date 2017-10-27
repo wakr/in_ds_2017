@@ -140,12 +140,6 @@ When comparing crime data and school data (dropout rates, safety scores, miscond
  in zip codes have come to exist coincidentally. We still cannot say whether the crimes committed are affecting school life or the other way around.
  Before drawing more conclusions than just "we found that these distributions resemble each others", we need more knowledge in research methods of criminology or social sciences.
 
-## To remember
-
-Quotation from [news article](http://www.chicagotribune.com/news/local/breaking/ct-chicago-violence-first-three-months-met-20170330-story.html):
-"Criminologists, however, caution against making comparisons in crime statistics month to month or even year to year, arguing that long-term trends give a truer picture of how violence changes over time."
-
-
 ## Story about ethics & value
 ### What should we do with our results & is value for apartment owners true value
 
@@ -175,6 +169,11 @@ Image below describes use of force misconducts by police, and it's from [Citizen
 <img src="police_force.png"/>
 
 <img src="race_gap.png"/>
+
+## To remember
+
+Quotation from [news article](http://www.chicagotribune.com/news/local/breaking/ct-chicago-violence-first-three-months-met-20170330-story.html):
+"Criminologists, however, caution against making comparisons in crime statistics month to month or even year to year, arguing that long-term trends give a truer picture of how violence changes over time."
 
 
 ### More information of Chicago regional inequality:
